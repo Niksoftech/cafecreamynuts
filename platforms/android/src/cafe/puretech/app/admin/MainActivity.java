@@ -17,7 +17,7 @@
        under the License.
  */
 
-package cafecreamynuts.mobile.app;
+package cafe.puretech.app.admin;
 
 import android.os.Bundle;
 import org.apache.cordova.*;

@@ -2,7 +2,7 @@
 var krms_config ={	
 	'ApiUrl' : "http://cafecreamynuts.in/mobileapp/api",
 	'DialogDefaultTitle' : "Cafe Creamy Nuts",
-	'pushNotificationSenderid' : "AIzaSyBfBM_PCU5Wah5zTN1oSEEj1ROqb5CPbh0 ",
-	'facebookAppId' : "1582771952032659",
-	'APIHasKey' : "33c882ca2b8463d9d61598c8e31d4c0f"
+	'pushNotificationSenderid' : "AIzaSyC7e5cKhmxK6E0eQH-w9aiyvUIfYdVF5wQ",
+	'facebookAppId' : "1920026794899825",
+	'APIHasKey' : "4c1274197679284157bb6b45a77c1bd3"
 };
